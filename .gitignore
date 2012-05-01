@@ -2,4 +2,6 @@
 *.pot
 *.pyc
 local_settings.py
-#*#
++*~
++\#*#
+credentials.conf
